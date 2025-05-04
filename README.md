@@ -1,6 +1,6 @@
 ## 🙋🏻‍♀️ Introducing Myself
 
-![Brown and Gray Simple Personal LinkedIn Banner](https://github.com/katiehuangx/katiehuangx/assets/81607668/bad4dc56-1211-41ed-99a7-1bccea77bd72)
+![Brown and Gray Simple Personal LinkedIn Banner](https://github.com/ay108/ay108/assets/image.pdf)
 
 ## Hi! My name is Ashley ⭐️ 
 I'm a current senior at Wellelsey College studying Data Science and Economics! Some of my interests in the field include Machine Learning, Catastrophe Modeling, and Statistical Modeling. 
