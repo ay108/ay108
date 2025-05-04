@@ -28,4 +28,4 @@ Welcome to my portfolio, where I showcase my [projects](https://github.com/ay108
 
 ### 👋🏻 Connect with Me!
 
-- [Linkedin](https://www.linkedin.com/in/ashleyyang1124/)
+- [Linkedin](https://www.linkedin.com/in/ashley-yang1124/)
