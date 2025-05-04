@@ -1,6 +1,6 @@
 ## 🙋🏻‍♀️ Introducing Myself
 
-![LinkedIn Banner](https://github.com/ay108/ay108/assets/ashley_banner.jpg)
+![LinkedIn Banner](https://raw.githubusercontent.com/ay108/ay108/main/assets/ashley_banner.jpg)
 
 ## Hi! My name is Ashley ⭐️ 
 I'm a current senior at Wellelsey College studying Data Science and Economics! Some of my interests in the field include Machine Learning, Catastrophe Modeling, and Statistical Modeling. 
