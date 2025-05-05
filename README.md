@@ -17,7 +17,7 @@ Future (Enrolled) coursework:
 - STAT328: Nonparametric Methods
 - STAT260: Applied Data Analyis and Statistical Inference
 
-Welcome to my portfolio, where I showcase my [projects](https://github.com/ay108/Portfolio/blob/main/README.md).
+## Welcome to my portfolio, where I showcase my [projects](https://github.com/ay108/Portfolio/blob/main/README.md).
 
 ### 🛠️ Tools
 
